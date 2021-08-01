@@ -7,5 +7,5 @@ I'm using a KBD67lite rev2 (not the MKII - this is the tray mount one) and I'll 
 The layout file is designed in Keyboard Layout Editor. You can see [the layout over there](http://www.keyboard-layout-editor.com/#/gists/afc069881d7bfbbf893153100ea3f6c8)
 
 * Case_AllAcrylic has files for an acrylic sandwich case (it has its own README).
-* Firmware-standard has a json file for my wife's 'Aria' layout keyboard. It looks like this: ![An Aria Style KB67 Rev2](FoxyStardard.jpg)
+* Firmware-standard has a json file for my wife's 'Aria' layout keyboard. It looks like this: ![An Aria Style KB67 Rev2](FoxyStandard.jpg)
 * Firmware-split has a jason file for my keyboard, which is more like the 'Whitefox' layout plus a split keyboard. It is a Dvorak layout default. It looks like this:
