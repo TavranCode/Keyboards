@@ -7,7 +7,7 @@ The middle two layers are cut in two pieces to save material.
 
 I used a 'burger mount' which means the pcb sits on neoprene washers to cushion. The way I did this was to engrave away the shape of an m2 nut on the bottom layer. Then a nut is inserted in to that space. Then I use a long m2 screw inserted in to the top of the pcb through a neoprene and then a brass washer and in to the nut to hold the whole thing together. Here are some pictures:
 
-![The burger mount assembly from the top](Burger Mount Top.jpg)![The burger mount assembly from the bottom](Burger Mount Bottom.jpg)
+![The burger mount assembly from the top](Burger Mount Top.jpg) ![The burger mount assembly from the bottom](Burger Mount Bottom.jpg)
 
 The case is held together with brass chicago screws. I engraved a circle the size of the chicago screw head so it wouldn't sit so proud.
 
